@@ -17,10 +17,10 @@ flush privileges;
 ## Basic-Architecture (tree)
 ********
 src  
-    ├───controllers  
-    ├───db  
-    ├───public  
-    ├───routes  
-    └───utils
+    ├───controllers  # functions to connect routes to db operations   
+    ├───db           # db connections and model definations  
+    ├───public       # html/css/js file for static part of site   
+    ├───routes       # express middlewares (routes wise)  
+    └───utils        # functions to connect to db operations   
 
 *****
