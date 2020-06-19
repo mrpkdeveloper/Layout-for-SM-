@@ -1,0 +1,23 @@
+{
+  "name": "layout_for_sm",
+  "version": "1.0.0",
+  "description": "**********\r shell\r ********",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpkdeveloper/Layout-for-SM-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpkdeveloper/Layout-for-SM-/issues"
+  },
+  "homepage": "https://github.com/mrpkdeveloper/Layout-for-SM-#readme",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.13"
+  }
+}
