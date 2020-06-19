@@ -14,3 +14,13 @@ flush privileges;
  
 *******
 
+## Basic-Architecture (tree)
+********
+src  
+    ├───controllers  
+    ├───db  
+    ├───public  
+    ├───routes  
+    └───utils
+
+*****
